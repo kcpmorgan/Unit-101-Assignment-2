@@ -1,0 +1,41 @@
+/*global*/
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: arial;
+    font-size: 18px;
+}
+p {
+    line-height: 2;
+}
+.second-p {
+    background-color: lightgray;
+}
+
+/*utilities*/
+.text-center{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.container{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+/*header*/
+header {
+    background-color: sandybrown;
+}
+h1 {
+    margin-bottom: 20px;
+}
+h2 {
+    margin-bottom: 20px;
+}
+h3{
+    margin-bottom: 20px;
+}
+/*Bio*/
